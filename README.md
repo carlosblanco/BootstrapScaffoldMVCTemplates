@@ -24,6 +24,7 @@ Follow the instructions at J Sakamoto's project [site](http://visualstudiogaller
 Continue with this steps to install the templates in one of your Visual Studio projects.
 
 1. Download the files or clone the project from it's [github repository](https://github.com/carlosblanco/BootstrapScaffoldMVCTemplates "BootstrapScaffoldMVCTemplates").
+    - This is the link to the latest version [ZIP file](https://github.com/carlosblanco/BootstrapScaffoldMVCTemplates/archive/master.zip).
 2. Copy the "CodeTemplates" folder and all its content to the root directory of the sources in your Visual Studio project. Make sure the name of the folder stays "CodeTemplates".
 3. Copy the "bootstrap-validation.js" javascript file to your projects "Script" folder.
 
