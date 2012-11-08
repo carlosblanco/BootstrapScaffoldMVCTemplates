@@ -27,6 +27,7 @@ Continue with this steps to install the templates in one of your Visual Studio p
     - This is the link to the latest version [ZIP file](https://github.com/carlosblanco/BootstrapScaffoldMVCTemplates/archive/master.zip).
 2. Copy the "CodeTemplates" folder and all its content to the root directory of the sources in your Visual Studio project. Make sure the name of the folder stays "CodeTemplates".
 3. Copy the "bootstrap-validation.js" javascript file to your projects "Script" folder.
+    -![Template Files](https://raw.github.com/carlosblanco/BootstrapScaffoldMVCTemplates/master/Docs/Images/BootstrapMVCTemplates%20for%20Visual%20Studio.png)
 
 Usage
 -----
@@ -34,17 +35,21 @@ Once the templates are intalled in one of your projects. You can use them in the
 
 1. **Creating a new controller and all its corresponding views.**
   1. Right click on the Controllers folder and select Add -> Controller.
+     - ![Add controller](https://raw.github.com/carlosblanco/BootstrapScaffoldMVCTemplates/master/Docs/Images/BootstrapMVCTemplates%20for%20Visual%20Studio%20Add%20Controller.png)
   2. Fill the name of the new controller.
   3. Select "MVC Controller with read/write actions and views, using Entity Framework" from the "Template" dropbox.
   4. Select your Model and Data Context clases.
+     - ![Add controller](https://raw.github.com/carlosblanco/BootstrapScaffoldMVCTemplates/master/Docs/Images/BootstrapMVCTemplates%20for%20Visual%20Studio%20Add%20Controller%20Dialog.png)
   5. Click Add. 
 
 
 2. **Creating one view at a time for an existing controller.**
   1. Right click on the Views folder for a controller that you have created previously.
+     - ![Add controller](https://raw.github.com/carlosblanco/BootstrapScaffoldMVCTemplates/master/Docs/Images/BootstrapMVCTemplates%20for%20Visual%20Studio%20Add%20View.png)
   2. Fill the name for the new View.
   3. Select the Model class which the new view will be for.
   4. Select the type of view from "Scaffold Template" dropbox.
+     - ![Add controller](https://raw.github.com/carlosblanco/BootstrapScaffoldMVCTemplates/master/Docs/Images/BootstrapMVCTemplates%20for%20Visual%20Studio%20Add%20View%20Dialog.png)
   5. Click Add.
 
 Screenshots
