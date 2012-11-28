@@ -7,7 +7,7 @@ Visual Studio Scaffolding templates for Twitter Bootstrap.
 Overview
 --------
 
-This templates are meant to complement the "MVC 4 TwitterBootstrap Starter Layout Page (Razor)" developed by J Sakamoto.
+These templates are meant to complement the "MVC 4 TwitterBootstrap Starter Layout Page (Razor)" developed by J Sakamoto.
 The files contained in this project will tell Visual Studio to create the scaffolding views in accordance to Twitter Bootstrap 
 CSS rules and make them work with Sakamoto's layout page. The files here are for the C# programming language and use the Razor syntax.
 
